@@ -2,7 +2,7 @@
 <img align='right' src="https://cdn.dribbble.com/users/962321/screenshots/2788167/gif_13.gif" width="300">
 
 
-- 🎓 I graduated my **Bachelors in Civil Engineering** from **SR University **
+- 🎓 I graduated my **Bachelors in Civil Engineering** from **SR University**
 - 🌱 I'm currently Exploring **Deep Learning** neural networks.
 - 💻 I'm looking for a challenging position in **machine learning** domains.
 - 🖋️ I'm actively working with kaggle datasets.
