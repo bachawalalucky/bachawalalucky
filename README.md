@@ -2,7 +2,7 @@
 <img align='right' src="https://cdn.dribbble.com/users/962321/screenshots/2788167/gif_13.gif" width="300">
 
 
-- 🎓 I graduated my **Bachelors in Civil Engineering** from **SR University**
+- 🎓 I graduated my **Bachelors** from **SR University**
 - 🌱 I'm currently Exploring **Deep Learning** neural networks.
 - 💻 I'm looking for a challenging position in **machine learning** domains.
 - 🖋️ I'm actively working with kaggle datasets.
@@ -32,3 +32,5 @@ def bachawala_laxminarayana():
 <a href="https://www.instagram.com/lucky_bachawala">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="26" height="26" target = "_blank" />
 </a>
+
+I'm a Civil Engineer by profession but found my passion in Data Science.......
