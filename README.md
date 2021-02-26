@@ -1,5 +1,5 @@
 ## Hey there, I'm LaxmiNarayana!
-<img align='right' src="https://cdn.dribbble.com/users/962321/screenshots/2788167/gif_13.gif" width="300">
+<img align='right' src="https://i.pinimg.com/originals/fe/a5/55/fea5551b05708e4b12ceb81a91728687.gif" width="300">
 
 
 - 🎓 I graduated my **Bachelors** from **SR University**
