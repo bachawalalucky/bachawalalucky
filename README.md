@@ -1,16 +1,34 @@
-### Hi there 👋
+## Hey there, I'm LaxmiNarayana!
+<img align='right' src="https://cdn.dribbble.com/users/962321/screenshots/2788167/gif_13.gif" width="300">
 
-<!--
-**bachawalalucky/bachawalalucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🎓 I graduated my **Bachelors in Civil Engineering** from **SR University **
+- 🌱 I'm currently Exploring **Deep Learning** neural networks.
+- 💻 I'm looking for a challenging position in **machine learning** domains.
+- 🖋️ I'm actively working with kaggle datasets.
+- 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
+- 🎯 Goal (2021): **Contribute** openly to **Data Science and Machine Learning community**.
+- 📌 Scroll down to see my **Pinned Repositories**.
+- ⚡  Fun fact : I love to draw and play drums
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```python
+def bachawala_laxminarayana():
+  skills_with_proficiency = {'Python' :'Advance', 'SQL':'Intermidiate', 'tableau':'Intermidiate', 'Excel':'Intermidiate',}
+  tools = ['numpy', 'pandas', 'sklearn', 'matplotlib', 'seaborn', 'keras', 'flask', 'tableau']
+  cloud_architecture = ['heroku', 'aws sagemaker']
+  kaggle_competitions = Getting start..
+  active_blogger = True
+  return ∞
+```
+
+## Connect me on:
+
+<a href="https://www.linkedin.com/in/laxmi-narayana-bachawala/">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="26" height="26"  target = "_blank" />
+</a>
+
+
+<a href="https://www.instagram.com/lucky_bachawala">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="26" height="26" target = "_blank" />
+</a>
