@@ -3,8 +3,8 @@
 
 
 - 🎓 I graduated my **Bachelors** from **SR University**
-- 🌱 I'm currently Exploring **Deep Learning** neural networks.
-- 💻 I'm looking for a challenging position in **machine learning** domains.
+- 🌱 I'm currently Exploring **Machine Learning** Algorithms.
+- 💻 I'm looking for a challenging position in **Machine Learning** domains.
 - 🖋️ I'm actively working with kaggle datasets.
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
 - 🎯 Goal (2021): **Contribute** openly to **Data Science and Machine Learning community**.
@@ -14,10 +14,10 @@
 
 ```python
 def bachawala_laxminarayana():
-  skills_with_proficiency = {'Python' :'Advance', 'SQL':'Intermidiate', 'tableau':'Intermidiate', 'Excel':'Intermidiate',}
-  tools = ['numpy', 'pandas', 'sklearn', 'matplotlib', 'seaborn', 'keras', 'flask', 'tableau']
+  skills_with_proficiency = {'Machine Learning' :'Advance', 'SQL':'Intermidiate', 'tableau':'Intermidiate', 'Excel':'Intermidiate',}
+  tools = ['numpy', 'pandas', 'sklearn', 'matplotlib', 'seaborn', 'keras', 'flask', 'tableau', 'autocad']
   cloud_architecture = ['heroku', 'aws sagemaker']
-  kaggle_competitions = Getting start..
+  kaggle_competitions = Getting started..
   active_blogger = True
   return ∞
 ```
@@ -34,7 +34,7 @@ def bachawala_laxminarayana():
 </a>
 
 
-<a href="https://https://bachawalalucky27.medium.com/">
+<a href="https://bachawalalucky.medium.com/">
 <img src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/1151/Medium_logo_-_black-512.png" width="26" height="26" target = "_blank" />
 </a>
 
