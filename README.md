@@ -2,14 +2,14 @@
 <img align='right' src="https://i.pinimg.com/originals/fe/a5/55/fea5551b05708e4b12ceb81a91728687.gif" width="200">
 
 
-- 🎓 I graduated my **Bachelors** from **SR University**
-- 🌱 I'm currently Exploring **Machine Learning** Algorithms.
+- 🎓 I graduated with my **Bachelors** from **SR University**
+- 🌱 I'm currently Exploring the heights of **Machine Learning** Algorithms and getting into the depth of it.
 - 💻 I'm looking for a challenging position in **Machine Learning** domains.
-- 🖋️ I'm actively working with kaggle datasets.
-- 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
+- 🖋️ I'm actively working with Kaggle datasets.
+- 🤝🏻 I'm open to collaborations in **Data Science** and **Machine Learning** domains.
 - 🎯 Goal (2021): **Contribute** openly to **Data Science and Machine Learning community**.
 - 📌 Scroll down to see my **Pinned Repositories**.
-- ⚡  Fun fact : I love to draw and play drums
+- ⚡  Fun fact: I love to draw and play drums
 
 
 ```python
