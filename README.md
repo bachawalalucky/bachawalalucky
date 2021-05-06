@@ -2,7 +2,7 @@
 <img align='right' src="https://i.pinimg.com/originals/fe/a5/55/fea5551b05708e4b12ceb81a91728687.gif" width="200">
 
 
-- 🎓 I graduated with my **Bachelors** from **SR University**
+- 🎓 I graduated with my **Bachelors** from **SR Engineering College**
 - 🌱 I'm currently Exploring the heights of **Machine Learning** Algorithms and getting into the depth of it.
 - 💻 I'm looking for a challenging position in **Machine Learning** domains.
 - 🖋️ I'm actively working with Kaggle datasets.
@@ -16,7 +16,7 @@
 def bachawala_laxminarayana():
   skills_with_proficiency = {'Machine Learning' :'Advance', 'SQL':'Intermidiate', 'tableau':'Intermidiate', 'Excel':'Intermidiate',}
   tools = ['numpy', 'pandas', 'sklearn', 'matplotlib', 'seaborn', 'keras', 'flask', 'tableau', 'autocad']
-  cloud_architecture = ['heroku', 'aws sagemaker']
+  cloud_architecture = ['heroku']
   kaggle_competitions = Getting started..
   active_blogger = True
   return ∞
