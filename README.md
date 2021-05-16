@@ -1,4 +1,4 @@
-## Hey there, I'm LaxmiNarayana!
+## Hey there, I'm LaxmiNarayana Bachawala! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 <img align='right' src="https://i.pinimg.com/originals/fe/a5/55/fea5551b05708e4b12ceb81a91728687.gif" width="200">
 
 
