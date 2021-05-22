@@ -34,7 +34,7 @@ def bachawala_laxminarayana():
 </a>
 
 
-<a href="https://bachawalalucky.medium.com/" target="_blank">
+<a href="https://luckybachawala.medium.com/" target="_blank">
 <img src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/1151/Medium_logo_-_black-512.png" width="26" height="26" target = "_blank" />
 </a>
 
