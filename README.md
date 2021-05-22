@@ -29,7 +29,7 @@ def bachawala_laxminarayana():
 </a>
 
 
-<a href="https://www.instagram.com/lucky_bachawala" target="_blank">
+<a href="https://luckybachawala.medium.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="26" height="26" target = "_blank" />
 </a>
 
