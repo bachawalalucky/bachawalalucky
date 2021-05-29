@@ -3,7 +3,7 @@
 
 
 - 🎓 I graduated with my **Bachelors** from **SR Engineering College**
-- 🌱 I'm currently Exploring the heights of **Machine Learning** Algorithms and getting into the depth of it.
+- 🌱 Currently Exploring the heights of **Machine Learning** Algorithms and getting into the depth of it.
 - 💻 I'm looking for a challenging position in **Machine Learning** domains.
 - 🖋️ I'm actively working with Kaggle datasets.
 - 🤝🏻 I'm open to collaborations in **Data Science** and **Machine Learning** domains.
