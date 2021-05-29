@@ -1,9 +1,9 @@
 ## Hey there, I'm LaxmiNarayana Bachawala! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-<img align='right' src="https://i.pinimg.com/originals/fe/a5/55/fea5551b05708e4b12ceb81a91728687.gif" width="190">
+<img align='right' src="https://i.pinimg.com/originals/fe/a5/55/fea5551b05708e4b12ceb81a91728687.gif" width="200">
 
 
 - 🎓 I graduated with my **Bachelors** from **SR Engineering College**
-- 🌱 Currently Exploring the heights of **Machine Learning** Algorithms and getting into the depth of it.
+- 🌱 Currently Exploring the heights of **Machine Learning** Algorithms & getting into the depth of it.
 - 💻 I'm looking for a challenging position in **Machine Learning** domains.
 - 🖋️ I'm actively working with Kaggle datasets.
 - 🤝🏻 I'm open to collaborations in **Data Science** and **Machine Learning** domains.
